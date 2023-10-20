@@ -19,3 +19,7 @@ các đoạn này được gọi là partition Consumer: Một consumer có th�
 dụng nào có chức năng subscribe vào một topic và tiêu thụ các tin nhắn. Broker:
 Kafka cluster là một set các server, mỗi một set này được gọi là 1 broker
 Zookeeper: được dùng để quản lý và bố trí các broker.
+
+# Reference
+
+https://blog.logrocket.com/microservices-nestjs-kafka-typescript/
