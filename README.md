@@ -53,3 +53,7 @@ https://www.youtube.com/watch?v=_mw5QupT4ts ![Alt text](image-3.png)
 
 Kafka lưu thôn tin ở nhiều máy (hệ thống phân tán): mỗi mãy lữu trữ gọi là 1
 partition. ![Alt text](image-5.png)
+
+# Kafka Main Page
+
+https://kafka.apache.org/quickstart
